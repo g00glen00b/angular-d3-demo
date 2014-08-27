@@ -32,3 +32,9 @@ RCS
 RCSLOG
 SCCS
 _$*
+.project
+bower_components/
+.bowerrc
+.editorconfig
+.gitattributes
+.tmp/
