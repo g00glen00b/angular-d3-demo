@@ -1,0 +1,10 @@
+{
+  "name": "angular-d3-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap-css-only": "latest",
+    "lodash": "latest",
+    "d3": "latest"
+  }
+}

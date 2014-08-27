@@ -1,0 +1,9 @@
+.chart .domain {
+  fill: none;
+  stroke-width: 1;
+  stroke: #D4D4D1;
+}
+  
+.chart .bar {
+  fill: #56BEEB;
+}
